@@ -13,9 +13,9 @@ Jumper wires, breadboard, USB power for Arduino
 
 ## Circuit Diagram Description for Your Smart Traffic Control System
 
-### Components and Connections:
+# Components and Connections:
 
-#### 1. **Arduino Uno**
+# 1. **Arduino Uno**
 
 * Power: Connect 5V and GND to the breadboard power rails.
 
