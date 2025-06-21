@@ -1,3 +1,16 @@
+##Components
+
+Arduino Uno (or compatible)
+
+4 IR or ultrasonic sensors (placed at each incoming lane)
+
+1 emergency IR receiver (placed at the intersection)
+
+4 LEDs with resistors (≈220 Ω) for traffic lights: green/yellow/red per direction, or a simplified single-light per direction
+
+Jumper wires, breadboard, USB power for Arduino
+
+
 ## Circuit Diagram Description for Your Smart Traffic Control System
 
 ### Components and Connections:
